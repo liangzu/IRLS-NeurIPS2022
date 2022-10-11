@@ -1,5 +1,5 @@
 #+TITLE: IRLS for Non-Smooth Robust Regression
-This repository implements some IRLS algorithms described in
+This repository implements some IRLS algorithms described in:
 #+BEGIN_EXAMPLE
 @article{Peng-NeurIPS2022,
   author       = {Peng, Liangzu and K\"ummerle, Christian and Vidal, Ren\'e},
@@ -16,7 +16,7 @@ Kindly cite our paper if you find it helpful. You can find our paper here:
 To reproduce the figures in the paper, run some script in the folder
 *experiments*, and then run the script of the same name in the folder
 *figures*. Remember to change the file paths defined in the code. Also
-remember to include other software packages that the scripts depend
+remember to include other software packages that some scripts depend
 on, e.g.,
 - PhasePack: https://github.com/tomgoldstein/phasepack-matlab
 - CVX: http://cvxr.com/cvx/
