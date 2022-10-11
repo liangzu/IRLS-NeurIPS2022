@@ -12,6 +12,7 @@ Kindly cite our paper if you find it helpful. You can find our paper here:
 - arXiv: https://arxiv.org/abs/2208.11846
 - OpenReview: https://openreview.net/forum?id=2hp6sIBsCDH
 
+See *example.m* for an example of using the code.
 
 To reproduce the figures in the paper, run some script in the folder
 *experiments*, and then run the script of the same name in the folder
